@@ -1,0 +1,19 @@
+{
+  "name": "qualquer-nome",
+  "version": "1.0.0",
+  "description": "aprendendo node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "learning",
+    "nodejs",
+    "rocketseat"
+  ],
+  "author": "Rodrigo Lorandi",
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^2.9.1"
+  }
+}
